@@ -1,4 +1,9 @@
 %% Time average maps - IFS, AIRS and ERA5 
+
+% Functions written by others: 
+%%% bin2mat: Andrew Stevens, 3/10/2009
+%%% cbrewer: Charles Robert, 06.12.2011
+
 % granule stripes 
 
 % Percentiles
